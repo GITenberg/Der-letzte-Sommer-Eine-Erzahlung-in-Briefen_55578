@@ -1,0 +1,26 @@
+_repo: Der-letzte-Sommer-Eine-Erzahlung-in-Briefen_55578
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Huch, Ricarda
+    alias: Huch, Ricarda Octavia
+    birthdate: 1864
+    deathdate: 1947
+    gutenberg_agent_id: '7189'
+    url: http://www.gutenberg.org/2009/agents/7189
+    wikipedia: http://de.wikipedia.org/wiki/Ricarda_Huch
+description: ''
+gutenberg_issued: '2017-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55578'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Der letzte Sommer
+
+  Eine Erzählung in Briefen'
+url: http://www.gutenberg.org/ebooks/55578
